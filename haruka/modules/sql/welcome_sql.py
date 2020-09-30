@@ -83,7 +83,7 @@ class WelcomeSecurity(BASE):
     mute_time = Column(UnicodeText, default="0")
     custom_text = Column(UnicodeText, default="Klik disini untuk mensuarakan")
 
-    def __init__(self, chat_id, security=False, mute_time="0", custom_text="Klik disini untuk mensuarakan"):
+    def __init__(self, chat_id, security=False, mute_time="0", custom_text="Click here to vote sir"):
         self.chat_id = str(chat_id) # ensure string
         self.security = security
         self.mute_time = mute_time
