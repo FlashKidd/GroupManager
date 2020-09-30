@@ -29,7 +29,7 @@ I'm group manager bot and Anti-spam for Uchiha🃏
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-I  Was Created By [UCHIHA] (t.me/sharinganuser1)
+I  Was Created By [UCHIHA](t.me/sharinganuser1)
 
 Special thanks to [this person](t.me/TheFlashxD) for helping me.
 
